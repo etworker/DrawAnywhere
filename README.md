@@ -20,7 +20,7 @@ This tool runs under Windows.
 
 ### 3.2 Install
 
-Just copy [DrawAnywhere.exe](Bin\DrawAnywhere.exe) at anywhere in Windows.
+Just copy [DrawAnywhere.exe](Bin\\DrawAnywhere.exe) at anywhere in Windows.
 
 ### 3.3 Launch
 
