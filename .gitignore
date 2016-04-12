@@ -27,7 +27,6 @@
 #
 
 # Delphi compiler-generated binaries (safe to delete)
-*.exe
 *.dll
 *.bpl
 *.bpi
@@ -66,7 +65,6 @@ __history/
 
 # My
 Art/
-Bin/
 Dcu/
 Setup/
 Test/
