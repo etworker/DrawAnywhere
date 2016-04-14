@@ -10,6 +10,8 @@ Finally I decide to write my own tool.
 
 ![Snapshot](Art/Screen.png)
 
+The weakness of this tool is because of the global alpha blend, which will also make background screen blur.
+
 ## 2. Build
 
 This project is developed in Delphi 2007 without 3rd party component used.
