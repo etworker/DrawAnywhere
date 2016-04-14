@@ -8,7 +8,7 @@ I just want to draw a rectangle by mouse on a playing video screen, but most too
 so the video will freeze at that moment, that's not what I want.
 Finally I decide to write my own tool.
 
-[!Snapshot](Art/Screen.png)
+![Snapshot](Art/Screen.png)
 
 ## 2. Build
 
